@@ -60,6 +60,14 @@ _Yogyakarta, Indonesia | Aug 2022 - Jun 2023_
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisPanyi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisPanyi&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=LouisPanyi&theme=tokyonight&border_radius=10)  
+
+---
+
 ## 📫 Connect with Me
 
 - [Email](mailto:Louispanyi@gmail.com)
