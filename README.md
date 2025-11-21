@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mario Louis Steven Gunardi Panyi (LouisPanyi)
 
 **Information Systems Undergraduate** | Data, Web, and Esports Enthusiast  
-[Email](mailto:Louispanyi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/panyi-mario-louis-04624430a/)
+[Email](mailto:Louispanyi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mario-louis-steven-gunardi-panyi/)
 
 ---
 
